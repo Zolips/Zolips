@@ -1,0 +1,7 @@
+project 2
+[16,21,11,8,12,22] -> Merge Sort
+[16,21,11] [8,12,22]
+[11,16,21] 
+[8,11,12,16,21,22]
+her seferinde 2 ye böldüm, 2^n=x , n=logn 
+n tane sayı var, big O (n*logn) 
